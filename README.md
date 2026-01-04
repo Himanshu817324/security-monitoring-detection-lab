@@ -39,3 +39,5 @@ similar to a real SOC environment.
 
 ## Outcome
 Created dashboards and alerts for real-time monitoring.
+
+<img width="1858" height="944" alt="dashboard" src="https://github.com/user-attachments/assets/8119f6b4-db8e-4c87-9f3b-9588ea8c83e6" />
