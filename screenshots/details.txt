@@ -1,0 +1,5 @@
+dashboard.png → SIEM dashboard
+
+alert.png → Alert triggered
+
+investigation.png → Log analysis view
