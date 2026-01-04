@@ -1,0 +1,7 @@
+2024-01-10 10:15:32 Failed login attempt for user admin from 192.168.1.45
+2024-01-10 10:15:35 Failed login attempt for user admin from 192.168.1.45
+2024-01-10 10:15:38 Failed login attempt for user admin from 192.168.1.45
+2024-01-10 10:16:01 Successful login for user admin from 192.168.1.45
+
+2024-01-10 11:02:14 IDS Alert: Suspicious outbound connection to 185.220.101.1
+2024-01-10 11:02:20 Malware Test File (EICAR) detected on host WIN-01
